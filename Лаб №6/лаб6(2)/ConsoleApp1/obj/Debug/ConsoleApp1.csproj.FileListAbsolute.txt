@@ -1,0 +1,13 @@
+C:\Users\Никита\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Никита\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Никита\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Никита\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Никита\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\Лаб №6\лаб6(2)\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\Лаб №6\лаб6(2)\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\Лаб №6\лаб6(2)\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\Лаб №6\лаб6(2)\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\Лаб №6\лаб6(2)\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\Лаб №6\лаб6(2)\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\Лаб №6\лаб6(2)\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

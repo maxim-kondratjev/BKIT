@@ -1,0 +1,14 @@
+C:\Users\Никита\source\repos\Laba7\Laba7\bin\Debug\Laba7.exe.config
+C:\Users\Никита\source\repos\Laba7\Laba7\bin\Debug\Laba7.exe
+C:\Users\Никита\source\repos\Laba7\Laba7\bin\Debug\Laba7.pdb
+C:\Users\Никита\source\repos\Laba7\Laba7\obj\Debug\Laba7.csprojResolveAssemblyReference.cache
+C:\Users\Никита\source\repos\Laba7\Laba7\obj\Debug\Laba7.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\Laba7\Laba7\obj\Debug\Laba7.exe
+C:\Users\Никита\source\repos\Laba7\Laba7\obj\Debug\Laba7.pdb
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\Лаб №7\Laba7\Laba7\bin\Debug\Laba7.exe.config
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\Лаб №7\Laba7\Laba7\bin\Debug\Laba7.exe
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\Лаб №7\Laba7\Laba7\bin\Debug\Laba7.pdb
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\Лаб №7\Laba7\Laba7\obj\Debug\Laba7.csprojResolveAssemblyReference.cache
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\Лаб №7\Laba7\Laba7\obj\Debug\Laba7.csproj.CoreCompileInputs.cache
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\Лаб №7\Laba7\Laba7\obj\Debug\Laba7.exe
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\Лаб №7\Laba7\Laba7\obj\Debug\Laba7.pdb
