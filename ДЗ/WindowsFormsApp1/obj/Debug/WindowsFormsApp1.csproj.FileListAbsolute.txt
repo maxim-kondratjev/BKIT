@@ -1,0 +1,35 @@
+C:\Users\Никита\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Никита\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Никита\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Никита\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Никита\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Никита\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Никита\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Никита\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Никита\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Никита\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ClassLibrary1.dll
+C:\Users\Никита\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ClassLibrary1.pdb
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\data\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\data\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\data\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\data\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ClassLibrary1.dll
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\data\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ClassLibrary1.pdb
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\data\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\data\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\data\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\data\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\data\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\data\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\data\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\ДЗ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\ДЗ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\ДЗ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\ДЗ\WindowsFormsApp1\bin\Debug\ClassLibrary1.pdb
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\ДЗ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\ДЗ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\ДЗ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\ДЗ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\ДЗ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\ДЗ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Папка\учеба\бауманка\базовые компоненты интернет технологий\ДЗ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
