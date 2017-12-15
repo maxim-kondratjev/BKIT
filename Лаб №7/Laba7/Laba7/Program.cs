@@ -19,7 +19,7 @@ namespace Laba7
             }
             public override string ToString()
             {
-                return id + " Фамилия: " + last_name + "\n    ID отдела: " + id_department;
+                return id + " Фамилия: " + last_name + "\n" + "ID Отделa: " + id_department;
             }
         }
         class Department
@@ -52,13 +52,13 @@ namespace Laba7
         {
             List<Worker> workers = new List<Worker>()
             {
-                new Worker(1, "Кондратьев", 1),
-                new Worker(2, "Реутов", 1),
-                new Worker(3, "Чеснавкий", 1),
-                new Worker(4, "Андреев", 2),
-                new Worker(5, "Юсипов", 2),
-                new Worker(6, "Кириллов", 3),
-                new Worker(7, "Лаптев", 3)
+                new Worker(1, "Кондратьев",1),
+                new Worker(2, "Реутов",2),
+                new Worker(3, "Чеснавкий",3),
+                new Worker(4, "Андреев",1),
+                new Worker(5, "Юсипов",2),
+                new Worker(6, "Кириллов",3),
+                new Worker(7, "Лаптев",1)
             };
 
             List<Department> departments = new List<Department>()
@@ -82,17 +82,9 @@ namespace Laba7
             };
 
             Console.WriteLine("Список всех сотрудников: ");
-            var q1 = from x in departments
-                     join y in workers on x.id equals y.id_department into t
-                     select new { dep = x, dep_workers = t };
-            foreach(var x in q1)
+            foreach (var w in workers)
             {
-                Console.WriteLine(x.dep);
-                foreach(var y in x.dep_workers)
-                {
-                    Console.WriteLine("  " + y);
-                }
-                Console.WriteLine();
+                Console.WriteLine(w.last_name);
             }
 
             Console.WriteLine("Сотрудники с фамилией, начинающейся на А");
@@ -145,26 +137,28 @@ namespace Laba7
 
             Console.WriteLine("\nМногие-ко-многим");
 
-            var q9 = from dep in departments
-                     join l in dep_workers on dep.id equals l.dep_id into temp
-                     from t in temp
-                     group t by t.dep_id into gr
-                     select new { dep = gr.Key, work = gr};
-                     
+            var q9 = from dw in dep_workers
+                     join d in departments on dw.dep_id equals d.id
+                     join w in workers on dw.worker_id equals w.id
+                     group w by d into d_w
+                     select new
+                     {
+                         dep = d_w.Key,
+                         worker = d_w
+                     };
 
-            foreach(var x in q9)
+
+            foreach (var x in q9)
             {
-                Console.WriteLine(x.dep + " отдел");
-                foreach(var y in x.work)
-                {
-                    Console.WriteLine("    " + y.worker_id + " сотрудник");
-                }
+                Console.WriteLine(x.dep);
+                foreach (var y in x.worker)
+                    Console.WriteLine(y.last_name);
             }
 
             Console.WriteLine("\nКоличество сотрудников");
             foreach (var x in q9)
             {
-                Console.WriteLine(x.dep + " отдел, количество сотрудников - " + x.work.Count());
+                Console.WriteLine(x.dep + " , количество сотрудников - " + x.worker.Count());
             }
 
             Console.ReadKey();
